@@ -1,4 +1,2 @@
-Source-Code-Inspection [![Build Status](https://travis-ci.org/Prof-Calebe/Source-Code-Inspection.svg?branch=master)](https://travis-ci.org/Prof-Calebe/Source-Code-Inspection)
-======================
-
-Link para o Travis-CI: https://travis-ci.org/Prof-Calebe/Source-Code-Inspection
+José Felipe de Castro Martins  - 22.120.029-8
+Pedro Henrique Guilherme Sanchez - 221200694
